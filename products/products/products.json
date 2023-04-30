@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "name": "Infinity (JBL Glide 510)",
+            "image_link": "images/infinity_jbl_glide_510.jpg",
+            "buy_link": "https://amzn.to/3LEvPfY",
+            "website": "Amazon",
+            "category": "audio",
+            "tags": "headphones, bluetooth headphones"
+            
+        },
+
+        {
+            "name": "PHILIPS Handheld Garment Steamer hhfghg gfjg",
+            "image_link": "images/philips_steamer.jpg",
+            "buy_link": "https://amzn.to/3LmBw0N",
+            "website": "Amazon",
+            "category": "utilities",
+            "tags": "steamer"
+            
+        },
+
+        {
+            "name": "STRIFF Laptop Stand",
+            "image_link": "images/striff_laptop_stand.jpg",
+            "buy_link": "https://amzn.to/3oWhfrn",
+            "website": "Amazon",
+            "category": "accesories",
+            "tags": "laptop stand"
+            
+        }
+        
+    ]
+}

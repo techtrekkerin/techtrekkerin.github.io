@@ -2,3 +2,10 @@
 .product-card {
     width: 100%;
 }
+
+.card-body a {
+    max-width: 100% !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+}
