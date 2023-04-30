@@ -10,3 +10,8 @@
     white-space: nowrap !important;
     font-size: 12px !important;
 }
+
+footer a{
+    text-decoration: none;
+    font-size: 30px;
+}
