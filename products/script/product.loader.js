@@ -29,7 +29,7 @@ function populateProductsInDom(productsJson) {
 
 function getSingleProductDiv(product) {
     var mainDiv = document.createElement("div");
-    mainDiv.className = "col-6 col-sm-4 col-md-3 col-lg-3";
+    mainDiv.className = "col-6 col-sm-4 col-md-3 col-lg-2";
 
     var cardDiv = document.createElement("div");
     cardDiv.className = "card product-card";
