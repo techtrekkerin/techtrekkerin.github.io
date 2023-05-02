@@ -2,11 +2,11 @@ productsJsonLink = "/products/products/products.json";
 
 window.onload = function() {
     fetchProducts();
-    //alert("On Load");
+    addLazyLoadListener();
 }
 
 function fetchProducts() {
-    //alert("fetching products");
+    
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {
         if (this.readyState == 4 && this.status == 200) {
@@ -21,9 +21,11 @@ function fetchProducts() {
 function populateProductsInDom(productsJson) {
     var productRow = document.getElementById("products-row");
     var productsArray = productsJson.products;
-    for(var i = 0; i < productsArray.length; i++) {
-        var product = productsArray[i];
-        productRow.appendChild(getSingleProductDiv(product));
+    for(var j = 0; j < 1; j++) {
+        for(var i = 0; i < productsArray.length; i++) {
+            var product = productsArray[i];
+            productRow.appendChild(getSingleProductDiv(product));
+        }
     }
 }
 
@@ -35,7 +37,8 @@ function getSingleProductDiv(product) {
     cardDiv.className = "card product-card";
 
     var img = document.createElement("img");
-    img.className = "card-img-top";
+    img.className = "card-img-top lazy";
+    img.loading = "lazy";
     img.alt = product.name;
     img.src = product.image_link;
     cardDiv.appendChild(img);
@@ -55,4 +58,10 @@ function getSingleProductDiv(product) {
     mainDiv.appendChild(cardDiv);
 
     return mainDiv;
+}
+
+
+function addLazyLoadListener() {
+   //console.log("event listeners");
+    
 }

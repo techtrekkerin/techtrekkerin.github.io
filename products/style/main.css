@@ -1,6 +1,11 @@
 
 .product-card {
     width: 100%;
+    
+}
+
+.product-card img {
+    height: 200px;
 }
 
 .card-body a {
