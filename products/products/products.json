@@ -11,6 +11,16 @@
         },
 
         {
+            "name": "OnePlus Nord Buds",
+            "image_link": "images/one_plus_nord_buds.jpg",
+            "buy_link": "https://amzn.to/3AP5Yf3",
+            "website": "Amazon",
+            "category": "accesories",
+            "tags": "tws"
+            
+        },
+
+        {
             "name": "PHILIPS Handheld Steamer",
             "image_link": "images/philips_steamer.jpg",
             "buy_link": "https://amzn.to/3LmBw0N",
