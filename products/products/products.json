@@ -2,9 +2,9 @@
     "products": [
 
         {
-            "name": "Amazon Echo Dot",
+            "name": "Amazon Echo Dot 5",
             "image_link": "images/echo_dot.jpg",
-            "buy_link": "https://amzn.to/3LvNy7M",
+            "buy_link": "https://amzn.to/3AS4jpa",
             "website": "Amazon",
             "category": "smart",
             "tags": "speaker, smart home",
