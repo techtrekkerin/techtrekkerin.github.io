@@ -33,6 +33,17 @@
             "priority" : 10000
             
         },
+
+        {
+            "name": "PHILIPS handheld Steamer",
+            "image_link": "images/philips_steamer.jpg",
+            "buy_link": "https://amzn.to/3LmBw0N",
+            "website": "Amazon",
+            "category": "home appliances",
+            "tags": "steamer",
+            "priority" : 10000
+            
+        },
         
         {
             "name": "Infinity (JBL Glide 510)",
@@ -57,12 +68,34 @@
         },
 
         {
-            "name": "PHILIPS Handheld Steamer",
-            "image_link": "images/philips_steamer.jpg",
-            "buy_link": "https://amzn.to/3LmBw0N",
+            "name": "Video Capture Card",
+            "image_link": "images/video_capture_card.jpg",
+            "buy_link": "https://amzn.to/3VpBPMS",
             "website": "Amazon",
-            "category": "home appliances",
-            "tags": "steamer",
+            "category": "accesories",
+            "tags": "cable, convertor",
+            "priority" : 10000
+            
+        },
+
+        {
+            "name": "TP Link Archer A6 Router",
+            "image_link": "images/tplink_archer_a6.jpg",
+            "buy_link": "https://amzn.to/42hWFQn",
+            "website": "Amazon",
+            "category": "internet",
+            "tags": "router",
+            "priority" : 10000
+            
+        },
+
+        {
+            "name": "Digitek Tripod",
+            "image_link": "images/digitek_tripod.jpg",
+            "buy_link": "https://amzn.to/3LQReSY",
+            "website": "Amazon",
+            "category": "accesories",
+            "tags": "tripod",
             "priority" : 10000
             
         },

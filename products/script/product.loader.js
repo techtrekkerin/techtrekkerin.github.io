@@ -35,11 +35,9 @@ function setAllCategories() {
 function getCapitalizeText(text) {
     var splitStr = text.toLowerCase().split(' ');
     for (var i = 0; i < splitStr.length; i++) {
-        // You do not need to check if i is larger than splitStr length, as your for does that for you
-        // Assign it back to the array
         splitStr[i] = splitStr[i].charAt(0).toUpperCase() + splitStr[i].substring(1);     
     }
-    // Directly return the joined string
+
     return splitStr.join(' '); 
 }
 
@@ -48,7 +46,6 @@ function addCategoriesToSelect() {
     selectElement.onchange = function() {
         var selectedCategory = selectElement.options[selectElement.selectedIndex].value;
         populateProductsInDom(selectedCategory);
-        //console.log("onchange: ", selectedCategory);
     }
 
     var option = document.createElement("option");
@@ -128,7 +125,7 @@ function getSingleProductDiv(product) {
     anchor.className = "btn stretched-link text-truncate btn-outline-secondary";
     anchor.href = product.buy_link;
     anchor.target = "_blank";
-    anchor.innerHTML = product.name;
+    anchor.innerHTML = getCapitalizeText(product.name);
     cardBodyDiv.appendChild(anchor);
 
     cardDiv.appendChild(cardBodyDiv);
