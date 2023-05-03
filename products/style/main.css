@@ -20,3 +20,14 @@ footer a{
     text-decoration: none;
     font-size: 30px;
 }
+
+#category-selector {
+    font-size: 14px;
+    border: 1px solid #fff0;
+    color: #fff;
+    width: 100%;
+    background-color: transparent;
+    padding: 10px;
+    max-width: 500px;
+    cursor: pointer;
+}

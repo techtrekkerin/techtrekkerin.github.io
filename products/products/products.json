@@ -2,12 +2,35 @@
     "products": [
 
         {
+            "name": "Amazon Echo Dot",
+            "image_link": "images/echo_dot.jpg",
+            "buy_link": "https://amzn.to/3LvNy7M",
+            "website": "Amazon",
+            "category": "smart",
+            "tags": "speaker, smart home",
+            "priority" : 10000
+            
+        },
+
+        {
+            "name": "Amazon Echo Show 5",
+            "image_link": "images/echo_show_5.jpg",
+            "buy_link": "https://amzn.to/3Vy8908",
+            "website": "Amazon",
+            "category": "smart",
+            "tags": "speaker, smart home",
+            "priority" : 10000
+            
+        },
+
+        {
             "name": "STRIFF Laptop Stand",
             "image_link": "images/striff_laptop_stand.jpg",
             "buy_link": "https://amzn.to/3oWhfrn",
             "website": "Amazon",
             "category": "accesories",
-            "tags": "laptop stand"
+            "tags": "laptop stand",
+            "priority" : 10000
             
         },
         
@@ -17,7 +40,8 @@
             "buy_link": "https://amzn.to/3LEvPfY",
             "website": "Amazon",
             "category": "audio",
-            "tags": "headphones, bluetooth headphones"
+            "tags": "headphone, bluetooth headphones",
+            "priority" : 10000
             
         },
 
@@ -26,8 +50,9 @@
             "image_link": "images/one_plus_nord_buds.jpg",
             "buy_link": "https://amzn.to/3AP5Yf3",
             "website": "Amazon",
-            "category": "accesories",
-            "tags": "tws"
+            "category": "audio",
+            "tags": "headphone, tws",
+            "priority" : 10000
             
         },
 
@@ -36,8 +61,9 @@
             "image_link": "images/philips_steamer.jpg",
             "buy_link": "https://amzn.to/3LmBw0N",
             "website": "Amazon",
-            "category": "utilities",
-            "tags": "steamer"
+            "category": "home appliances",
+            "tags": "steamer",
+            "priority" : 10000
             
         },
 
@@ -47,7 +73,8 @@
             "buy_link": "https://amzn.to/3LPZcfr",
             "website": "Amazon",
             "category": "accesories",
-            "tags": "ring light"
+            "tags": "ring light",
+            "priority" : 10000
             
         }
         
