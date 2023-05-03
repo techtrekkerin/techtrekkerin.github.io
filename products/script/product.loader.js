@@ -2,7 +2,8 @@ const productsJsonLink = "/products/products/products.json";
 
 categories = undefined;
 products = undefined;
-selectedCategory = "all";
+const defaultCategory = "all products";
+selectedCategory = "all products";
 
 
 window.onload = function() {
@@ -20,7 +21,7 @@ function setSelectedCategoryFromUrl() {
 
 function getSelectedCategory() {
     if(selectedCategory == null || selectedCategory == undefined) {
-        return "all";
+        return defaultCategory;
     }
 
     return selectedCategory;
@@ -60,7 +61,7 @@ function getCapitalizeText(text) {
 }
 
 function setCategoryInUrlParams() {
-    searchParams.set("categ", selectedCategory);
+    searchParams.set("categ", getSelectedCategory());
     window.history.replaceState(null, null, url);
 }
 
@@ -69,13 +70,12 @@ function addCategoriesToSelect() {
     selectElement.onchange = function() {
         
         selectedCategory = selectElement.value;
-        setCategoryInUrlParams();
         populateProductsInDom(selectedCategory);
 
     }
 
     var option = document.createElement("option");
-    option.value = "all";
+    option.value = defaultCategory;
     option.innerHTML = getCapitalizeText("All Products");
     selectElement.appendChild(option);
     
@@ -127,6 +127,10 @@ function sortByProperty(property){
  }
 
 function populateProductsInDom(category) {
+
+    document.title = getCapitalizeText(category + " | Tech Trekker");
+    setCategoryInUrlParams();
+
     var productRow = document.getElementById("products-row");
     productRow.innerHTML = "";
 
