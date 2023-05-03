@@ -2,10 +2,28 @@ const productsJsonLink = "/products/products/products.json";
 
 categories = undefined;
 products = undefined;
+selectedCategory = "all";
 
 
 window.onload = function() {
     fetchProducts();
+    setSelectedCategoryFromUrl();
+}
+
+function setSelectedCategoryFromUrl() {
+
+    url = new URL(window.location.href);
+    searchParams = url.searchParams;
+    selectedCategory = searchParams.get("categ");
+
+}
+
+function getSelectedCategory() {
+    if(selectedCategory == null || selectedCategory == undefined) {
+        return "all";
+    }
+
+    return selectedCategory;
 }
 
 function fetchProducts() {
@@ -16,7 +34,7 @@ function fetchProducts() {
             var allProductsJson = JSON.parse(this.responseText);
             products = allProductsJson.products;
             setAllCategories();
-            populateProductsInDom(undefined);
+            populateProductsInDom(getSelectedCategory());
         }
     };
     xhttp.open("GET", productsJsonLink, true);
@@ -41,11 +59,19 @@ function getCapitalizeText(text) {
     return splitStr.join(' '); 
 }
 
+function setCategoryInUrlParams() {
+    searchParams.set("categ", selectedCategory);
+    window.history.replaceState(null, null, url);
+}
+
 function addCategoriesToSelect() {
     var selectElement = document.getElementById("category-selector");
     selectElement.onchange = function() {
-        var selectedCategory = selectElement.options[selectElement.selectedIndex].value;
+        
+        selectedCategory = selectElement.value;
+        setCategoryInUrlParams();
         populateProductsInDom(selectedCategory);
+
     }
 
     var option = document.createElement("option");
@@ -61,6 +87,10 @@ function addCategoriesToSelect() {
         option.innerHTML = getCapitalizeText(categories[i]);
         selectElement.appendChild(option);
     }
+
+    if(categories.includes(selectedCategory)) {
+        selectElement.value = selectedCategory;
+    }
 }
 
 function sortByProperty(property){  
@@ -75,7 +105,8 @@ function sortByProperty(property){
  }
 
  function getProductsArrayByCategory(category) {
-    if(category == undefined || category.localeCompare("all") == 0) {
+   
+    if(category == undefined || category == null || category.localeCompare("all") == 0) {
         return products;
     }
 
@@ -85,6 +116,10 @@ function sortByProperty(property){
         if(product.category.localeCompare(category) == 0) {
             productsArray.push(product);
         }
+    }
+
+    if(productsArray.length == 0) {
+        return products;
     }
 
     return productsArray;

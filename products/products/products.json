@@ -28,7 +28,7 @@
             "image_link": "images/striff_laptop_stand.jpg",
             "buy_link": "https://amzn.to/3oWhfrn",
             "website": "Amazon",
-            "category": "accesories",
+            "category": "accessories",
             "tags": "laptop stand",
             "priority" : 10000
             
@@ -72,7 +72,7 @@
             "image_link": "images/video_capture_card.jpg",
             "buy_link": "https://amzn.to/3VpBPMS",
             "website": "Amazon",
-            "category": "accesories",
+            "category": "accessories",
             "tags": "cable, convertor",
             "priority" : 10000
             
@@ -94,7 +94,7 @@
             "image_link": "images/digitek_tripod.jpg",
             "buy_link": "https://amzn.to/3LQReSY",
             "website": "Amazon",
-            "category": "accesories",
+            "category": "accessories",
             "tags": "tripod",
             "priority" : 10000
             
@@ -105,7 +105,7 @@
             "image_link": "images/osaka_ring_light.jpg",
             "buy_link": "https://amzn.to/3LPZcfr",
             "website": "Amazon",
-            "category": "accesories",
+            "category": "accessories",
             "tags": "ring light",
             "priority" : 10000
             
