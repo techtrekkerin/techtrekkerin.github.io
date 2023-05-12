@@ -1,0 +1,82 @@
+{
+    "social": {
+        "category": "social",
+        "priority": 1,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/social.png"
+    },
+    "ai": {
+        "category": "ai",
+        "priority": 1,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/ai.png"
+    },
+    "videos": {
+        "category": "videos",
+        "priority": 2,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/videos.png"
+    },
+    "music": {
+        "category": "music",
+        "priority": 4,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/music.png"
+    },
+    "games": {
+        "category": "games",
+        "priority": 3,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/games.png"
+    },
+    "coding": {
+        "category": "coding",
+        "priority": 11,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/coding.png"
+    },
+    "earn_money": {
+        "category": "earn_money",
+        "priority": 7,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/earnmoney.png"
+    },
+    "shopping": {
+        "category": "shopping",
+        "priority": 6,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/shopping.png"
+    },
+    "news": {
+        "category": "news",
+        "priority": 5,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/news.png"
+    },
+    "sports": {
+        "category": "sports",
+        "priority": 9,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/sports.png"
+    },
+    "education": {
+        "category": "education",
+        "priority": 8,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/education.png"
+    },
+    "jobs": {
+        "category": "jobs",
+        "priority": 7,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/jobs.png"
+    },
+    "blogs": {
+        "category": "blogs",
+        "priority": 12,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/blogs.png"
+    },
+    "email": {
+        "category": "email",
+        "priority": 6,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/email.png"
+    },
+    "search_engine": {
+        "category": "search_engine",
+        "priority": 10,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/search.png"
+    },
+    "travel": {
+        "category": "travel",
+        "priority": 5,
+        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/travel.png"
+    }
+}
