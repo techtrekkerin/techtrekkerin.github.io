@@ -2,81 +2,81 @@
     "social": {
         "category": "social",
         "priority": 1,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/social.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/social.png"
     },
     "ai": {
         "category": "ai",
         "priority": 1,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/ai.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/ai.png"
     },
     "videos": {
         "category": "videos",
         "priority": 2,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/videos.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/videos.png"
     },
     "music": {
         "category": "music",
         "priority": 4,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/music.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/music.png"
     },
     "games": {
         "category": "games",
         "priority": 3,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/games.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/games.png"
     },
     "coding": {
         "category": "coding",
         "priority": 11,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/coding.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/coding.png"
     },
     "earn_money": {
         "category": "earn_money",
         "priority": 7,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/earnmoney.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/earnmoney.png"
     },
     "shopping": {
         "category": "shopping",
         "priority": 6,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/shopping.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/shopping.png"
     },
     "news": {
         "category": "news",
         "priority": 5,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/news.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/news.png"
     },
     "sports": {
         "category": "sports",
         "priority": 9,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/sports.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/sports.png"
     },
     "education": {
         "category": "education",
         "priority": 8,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/education.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/education.png"
     },
     "jobs": {
         "category": "jobs",
         "priority": 7,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/jobs.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/jobs.png"
     },
     "blogs": {
         "category": "blogs",
         "priority": 12,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/blogs.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/blogs.png"
     },
     "email": {
         "category": "email",
         "priority": 6,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/email.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/email.png"
     },
     "search_engine": {
         "category": "search_engine",
         "priority": 10,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/search.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/search.png"
     },
     "travel": {
         "category": "travel",
         "priority": 5,
-        "icon_link": "https://raw.githubusercontent.com/pacificabhi/allinone/master/categories/travel.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/travel.png"
     }
 }
