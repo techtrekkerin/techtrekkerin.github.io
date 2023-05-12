@@ -1,7 +1,64 @@
 {
     "passes": {
         "bronze" : {
-            "name" : "bronze"
+            "name": "bronze",
+            "type": "ad_block",
+            "validity": {
+                "days": 0,
+                "hours": 6,
+                "minutes": 0
+            },
+            "cost": 399,
+            "color_hex": "#fff"
+            
+        },
+        "silver" : {
+            "name": "silver",
+            "type": "ad_block",
+            "validity": {
+                "days": 1,
+                "hours": 0,
+                "minutes": 0
+            },
+            "cost": 699,
+            "color_hex": "#fff"
+            
+        },
+        "gold" : {
+            "name": "gold",
+            "type": "ad_block",
+            "validity": {
+                "days": 3,
+                "hours": 0,
+                "minutes": 0
+            },
+            "cost": 1499,
+            "color_hex": "#fff"
+            
+        },
+        "sapphire" : {
+            "name": "sapphire",
+            "type": "ad_block",
+            "validity": {
+                "days": 7,
+                "hours": 0,
+                "minutes": 0
+            },
+            "cost": 2999,
+            "color_hex": "#fff"
+            
+        },
+        "platinum" : {
+            "name": "platinum",
+            "type": "ad_block",
+            "validity": {
+                "days": 30,
+                "hours": 0,
+                "minutes": 0
+            },
+            "cost": 399,
+            "color_hex": "#fff"
+            
         }
     }
 }
