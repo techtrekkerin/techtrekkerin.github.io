@@ -138,6 +138,14 @@
                 "cost": 399,
                 "color_hex": "#fff"
             }
+        },
+        "passes_id_number": {
+            "no_pass": -1,
+            "bronze": 1,
+            "silver": 2,
+            "gold": 3,
+            "sapphire": 4,
+            "platinum": 5
         }
     },
     "apps": {
