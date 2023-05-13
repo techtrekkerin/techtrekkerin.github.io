@@ -69,8 +69,8 @@
     "spin_and_win": {
         "daily_spin_count": 4,
         "validity": {
-            "days": 1,
-            "hours": 0,
+            "days": 0,
+            "hours": 1,
             "minutes": 0
         },
         "reward_coins_array" : [
