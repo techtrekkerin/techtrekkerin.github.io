@@ -138,6 +138,28 @@
                 "cost": 9999,
                 "color_hex": "#fff"
             }
+        },
+        "ads": {
+            "openNewAppAdCount": 3
+        },
+        "spin_and_win": {
+            "daily_spin_count": 4,
+            "validity": {
+                "days": 1,
+                "hours": 0,
+                "minutes": 0
+            },
+            "reward_coins_array": [
+                20,
+                40,
+                70,
+                85,
+                100,
+                130,
+                175,
+                220,
+                250
+            ]
         }
     },
     "apps": {
