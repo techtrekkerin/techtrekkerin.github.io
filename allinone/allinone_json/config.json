@@ -63,7 +63,7 @@
     },
 
     "ads" : {
-        "openNewAppAdCount" : 3
+        "open_new_app_show_ad_after" : 1
     }, 
 
     "spin_and_win": {
