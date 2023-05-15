@@ -76,5 +76,9 @@
         "reward_coins_array" : [
             20, 40, 70, 85, 100, 130, 175, 190, 220, 290
         ]
+    },
+
+    "apps_config": {
+        "app_unlock_cost": 12
     }
 }

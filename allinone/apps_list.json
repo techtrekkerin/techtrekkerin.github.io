@@ -161,6 +161,9 @@
                 220,
                 290
             ]
+        },
+        "apps_config": {
+            "app_unlock_cost": 12
         }
     },
     "apps": {
