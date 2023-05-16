@@ -63,7 +63,8 @@
     },
 
     "ads" : {
-        "open_new_app_show_ad_after" : 3
+        "open_new_app_show_ad_after" : 3,
+        "skip_new_app_ad_cost": 50
     }, 
 
     "spin_and_win": {
