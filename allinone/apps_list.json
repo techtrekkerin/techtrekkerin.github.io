@@ -176,7 +176,11 @@
             "icon_link": "https://techtrekker.in/allinone/app_icons/google.png",
             "connected_domains": [
                 "www.google.com",
-                "google.com"
+                "google.com",
+                "www.google.co.in",
+                "google.co.in",
+                "myaccount.google.com",
+                "accounts.google.com"
             ]
         },
         "jio_cinema": {
@@ -210,7 +214,10 @@
             "connected_domains": [
                 "m.facebook.com",
                 "facebook.com",
-                "www.facebook.com"
+                "www.facebook.com",
+                "business.facebook.com",
+                "fb.com",
+                "www.fb.com"
             ]
         },
         "instagram": {
@@ -221,7 +228,9 @@
             "icon_link": "https://techtrekker.in/allinone/app_icons/instagram.png",
             "connected_domains": [
                 "www.instagram.com",
-                "instagram.com"
+                "instagram.com",
+                "accountscenter.instagram.com",
+                "help.instagram.com"
             ]
         },
         "microsoft_bing": {
@@ -265,9 +274,7 @@
             "priority": 7,
             "icon_link": "https://techtrekker.in/allinone/app_icons/bard.png",
             "connected_domains": [
-                "bard.google.com",
-                "google.com",
-                "www.google.com"
+                "bard.google.com"
             ]
         },
         "character_ai": {
