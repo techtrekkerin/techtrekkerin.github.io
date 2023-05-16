@@ -176,14 +176,14 @@
         },
         "jio_cinema": {
             "app_name": "Jio Cinema",
-            "app_link": "https://www.jiocinema.com/",
+            "app_link": "https://www.jiocinema.com",
             "category": "videos",
             "priority": 12,
             "icon_link": "https://techtrekker.in/allinone/app_icons/jiocinema.png"
         },
         "amazon_india": {
             "app_name": "Amazon India",
-            "app_link": "https://amzn.to/40U6HWZ",
+            "app_link": "https://www.amazon.in",
             "category": "shopping",
             "priority": 5,
             "icon_link": "https://techtrekker.in/allinone/app_icons/amazonindia.png"
@@ -204,7 +204,7 @@
         },
         "microsoft_bing": {
             "app_name": "Microsoft Bing",
-            "app_link": "https://www.bing.com/",
+            "app_link": "https://www.bing.com",
             "category": "search_engine",
             "priority": 2,
             "icon_link": "https://techtrekker.in/allinone/app_icons/microsoft.png"
@@ -225,21 +225,21 @@
         },
         "bard_ai": {
             "app_name": "Bard AI",
-            "app_link": "https://bard.google.com/",
+            "app_link": "https://bard.google.com",
             "category": "ai",
             "priority": 7,
             "icon_link": "https://techtrekker.in/allinone/app_icons/bard.png"
         },
         "character_ai": {
             "app_name": "Character AI",
-            "app_link": "https://beta.character.ai/",
+            "app_link": "https://beta.character.ai",
             "category": "ai",
             "priority": 6,
             "icon_link": "https://techtrekker.in/allinone/app_icons/characterai.png"
         },
         "chat_gpt": {
             "app_name": "Chat GPT",
-            "app_link": "https://chat.openai.com/",
+            "app_link": "https://chat.openai.com",
             "category": "ai",
             "priority": 5,
             "icon_link": "https://techtrekker.in/allinone/app_icons/chatgpt.png"
@@ -281,7 +281,7 @@
         },
         "outlook": {
             "app_name": "Outlook",
-            "app_link": "https://outlook.live.com/owa/",
+            "app_link": "https://outlook.live.com/owa",
             "category": "email",
             "priority": 18,
             "icon_link": "https://techtrekker.in/allinone/app_icons/outlook.png"
@@ -299,13 +299,6 @@
             "category": "education",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/wikipedia.png"
-        },
-        "google_admob": {
-            "app_name": "Google Admob",
-            "app_link": "https://admob.google.com/",
-            "category": "earn_money",
-            "priority": 10000,
-            "icon_link": "https://techtrekker.in/allinone/app_icons/admob.png"
         },
         "facebook_audience_network": {
             "app_name": "Meta Audience Network",
@@ -344,14 +337,14 @@
         },
         "fakemail": {
             "app_name": "Fakemail",
-            "app_link": "https://www.fakemail.net/",
+            "app_link": "https://www.fakemail.net",
             "category": "email",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/fakemail.png"
         },
         "cp_algorithms": {
             "app_name": "CP Algorithms",
-            "app_link": "https://cp-algorithms.com/",
+            "app_link": "https://cp-algorithms.com",
             "category": "coding",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/cpalgorithms.webp"
@@ -365,7 +358,7 @@
         },
         "discord": {
             "app_name": "Discord",
-            "app_link": "https://discord.com/",
+            "app_link": "https://discord.com",
             "category": "social",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/discord.png"
@@ -400,14 +393,14 @@
         },
         "myntra": {
             "app_name": "Myntra",
-            "app_link": "https://www.myntra.com/",
+            "app_link": "https://www.myntra.com",
             "category": "shopping",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/myntra.png"
         },
         "alibaba": {
             "app_name": "Alibaba",
-            "app_link": "https://www.alibaba.com/",
+            "app_link": "https://www.alibaba.com",
             "category": "shopping",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/alibaba.png"
@@ -470,35 +463,35 @@
         },
         "aaj_tak": {
             "app_name": "Aaj Tak",
-            "app_link": "https://aajtak.intoday.in/",
+            "app_link": "https://aajtak.intoday.in",
             "category": "news",
             "priority": 17,
             "icon_link": "https://techtrekker.in/allinone/app_icons/aajtak.png"
         },
         "cnn": {
             "app_name": "CNN",
-            "app_link": "https://edition.cnn.com/",
+            "app_link": "https://edition.cnn.com",
             "category": "news",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/cnnnews.png"
         },
         "the_hindu": {
             "app_name": "The Hindu",
-            "app_link": "https://www.thehindu.com/",
+            "app_link": "https://www.thehindu.com",
             "category": "news",
             "priority": 18,
             "icon_link": "https://techtrekker.in/allinone/app_icons/thehindu.png"
         },
         "gaana": {
             "app_name": "Gaana",
-            "app_link": "https://www.gaana.com/",
+            "app_link": "https://www.gaana.com",
             "category": "music",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/gaana.png"
         },
         "jio_saavn": {
             "app_name": "Jio Saavn",
-            "app_link": "https://www.jiosaavn.com/",
+            "app_link": "https://www.jiosaavn.com",
             "category": "music",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/jiosaavn.png"
@@ -512,112 +505,112 @@
         },
         "amazon_music": {
             "app_name": "Amazon Music",
-            "app_link": "https://music.amazon.com/",
+            "app_link": "https://music.amazon.com",
             "category": "music",
             "priority": 7,
             "icon_link": "https://techtrekker.in/allinone/app_icons/amazonmusic.jpeg"
         },
         "spotify": {
             "app_name": "Spotify",
-            "app_link": "https://open.spotify.com/",
+            "app_link": "https://open.spotify.com",
             "category": "music",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/spotify.png"
         },
         "sportskeeda": {
             "app_name": "Sportskeeda",
-            "app_link": "https://www.sportskeeda.com/",
+            "app_link": "https://www.sportskeeda.com",
             "category": "sports",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/sportskeeda.png"
         },
         "cricinfo": {
             "app_name": "Cricinfo",
-            "app_link": "https://www.espncricinfo.com/",
+            "app_link": "https://www.espncricinfo.com",
             "category": "sports",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/espncricinfo.jpeg"
         },
         "cricbuzz": {
             "app_name": "Cricbuzz",
-            "app_link": "https://m.cricbuzz.com/",
+            "app_link": "https://m.cricbuzz.com",
             "category": "sports",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/cricbuzz.png"
         },
         "atcoder": {
             "app_name": "Atcoder",
-            "app_link": "https://www.atcoder.jp/",
+            "app_link": "https://www.atcoder.jp",
             "category": "coding",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/atcoder.png"
         },
         "codeforces": {
             "app_name": "Codeforces",
-            "app_link": "https://www.codeforces.com/",
+            "app_link": "https://www.codeforces.com",
             "category": "coding",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/codeforces.png"
         },
         "geeks_for_geeks": {
             "app_name": "Geeks For Geeks",
-            "app_link": "https://www.geeksforgeeks.org/",
+            "app_link": "https://www.geeksforgeeks.org",
             "category": "coding",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/geeksforgeeks.png"
         },
         "codechef": {
             "app_name": "Codechef",
-            "app_link": "https://www.codechef.com/",
+            "app_link": "https://www.codechef.com",
             "category": "coding",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/codechef.png"
         },
         "hackerearth": {
             "app_name": "Hackerearth",
-            "app_link": "https://www.hackerearth.com/",
+            "app_link": "https://www.hackerearth.com",
             "category": "coding",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/hackerearth.png"
         },
         "hackerrank": {
             "app_name": "Hackerrank",
-            "app_link": "https://www.hackerrank.com/",
+            "app_link": "https://www.hackerrank.com",
             "category": "coding",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/hackerrank.png"
         },
         "leetcode": {
             "app_name": "Leetcode",
-            "app_link": "https://www.leetcode.com/",
+            "app_link": "https://www.leetcode.com",
             "category": "coding",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/leetcode.png"
         },
         "freelancer": {
             "app_name": "Freelancer",
-            "app_link": "https://www.freelancer.com/",
+            "app_link": "https://www.freelancer.com",
             "category": "earn_money",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/freelancer.png"
         },
         "premier_league": {
             "app_name": "Premier League",
-            "app_link": "https://www.premierleague.com/",
+            "app_link": "https://www.premierleague.com",
             "category": "sports",
             "priority": 16,
             "icon_link": "https://techtrekker.in/allinone/app_icons/premierleague.png"
         },
         "reddit": {
             "app_name": "Reddit",
-            "app_link": "https://www.reddit.com/",
+            "app_link": "https://www.reddit.com",
             "category": "social",
             "priority": 12,
             "icon_link": "https://techtrekker.in/allinone/app_icons/reddit.png"
         },
         "temp_mail": {
             "app_name": "Temp Mail",
-            "app_link": "https://temp-mail.org/en/",
+            "app_link": "https://temp-mail.org/en",
             "category": "email",
             "priority": 8,
             "icon_link": "https://techtrekker.in/allinone/app_icons/temp-mail.png"
