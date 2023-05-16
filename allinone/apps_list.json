@@ -211,7 +211,7 @@
         },
         "twitter": {
             "app_name": "Twitter",
-            "app_link": "https://mobile.twitter.com",
+            "app_link": "https://twitter.com",
             "category": "social",
             "priority": 4,
             "icon_link": "https://techtrekker.in/allinone/app_icons/twitter.png"
