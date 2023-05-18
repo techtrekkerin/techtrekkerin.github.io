@@ -645,14 +645,13 @@
         },
         "aaj_tak": {
             "app_name": "Aaj Tak",
-            "app_link": "https://aajtak.intoday.in",
+            "app_link": "https://www.aajtak.in/",
             "category": "news",
             "priority": 17,
             "icon_link": "https://techtrekker.in/allinone/app_icons/aajtak.png",
             "connected_domains": [
-                "aajtak.intoday.in",
-                "intoday.in",
-                "www.intoday.in"
+                "www.aajtak.in",
+                "aajtak.in"
             ]
         },
         "cnn": {
