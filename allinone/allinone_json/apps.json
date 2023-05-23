@@ -12,7 +12,8 @@
             "google.co.in",
             "myaccount.google.com",
             "accounts.google.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/google.png"
     },
     "jio_cinema": {
         "app_name": "Jio Cinema",
@@ -23,7 +24,8 @@
         "connected_domains": [
             "www.jiocinema.com",
             "jiocinema.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/jiocinema.png"
     },
     "amazon_india": {
         "app_name": "Amazon India",
@@ -34,7 +36,8 @@
         "connected_domains": [
             "www.amazon.in",
             "amazon.in"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/amazonindia.png"
     },
     "facebook": {
         "app_name": "Facebook",
@@ -49,7 +52,8 @@
             "business.facebook.com",
             "fb.com",
             "www.fb.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/facebook.png"
     },
     "instagram": {
         "app_name": "Instagram",
@@ -62,7 +66,8 @@
             "instagram.com",
             "accountscenter.instagram.com",
             "help.instagram.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/instagram.png"
     },
     "microsoft_bing": {
         "app_name": "Microsoft Bing",
@@ -73,7 +78,8 @@
         "connected_domains": [
             "www.bing.com",
             "bing.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/microsoft.png"
     },
     "twitter": {
         "app_name": "Twitter",
@@ -84,7 +90,8 @@
         "connected_domains": [
             "twitter.com",
             "www.twitter.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/twitter.png"
     },
     "manage_snapchat_account": {
         "app_name": "Manage Snapchat Account",
@@ -96,7 +103,8 @@
             "accounts.snapchat.com",
             "snapchat.com",
             "www.snapchat.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/snapchat.png"
     },
     "bard_ai": {
         "app_name": "Bard AI",
@@ -106,7 +114,8 @@
         "icon_link": "https://techtrekker.in/allinone/app_icons/bard.png",
         "connected_domains": [
             "bard.google.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/bard.png"
     },
     "character_ai": {
         "app_name": "Character AI",
@@ -118,7 +127,8 @@
             "beta.character.ai",
             "character.ai",
             "www.character.ai"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/characterai.png"
     },
     "chat_gpt": {
         "app_name": "Chat GPT",
@@ -130,7 +140,8 @@
             "chat.openai.com",
             "openai.com",
             "www.openai.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/chatgpt.png"
     },
     "wordle": {
         "app_name": "Wordle",
@@ -141,7 +152,8 @@
         "connected_domains": [
             "www.nytimes.com",
             "nytimes.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/wordle.png"
     },
     "spelling_bee": {
         "app_name": "Spelling Bee",
@@ -152,7 +164,8 @@
         "connected_domains": [
             "www.nytimes.com",
             "nytimes.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/spellingbee.png"
     },
     "sudoku": {
         "app_name": "Sudoku",
@@ -163,7 +176,8 @@
         "connected_domains": [
             "www.nytimes.com",
             "nytimes.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/sudoku.png"
     },
     "duckduckgo": {
         "app_name": "DuckDuckGo",
@@ -174,7 +188,8 @@
         "connected_domains": [
             "duckduckgo.com",
             "www.duckduckgo.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/duckduckgo.png"
     },
     "telegram": {
         "app_name": "Telegram",
@@ -186,7 +201,8 @@
             "web.telegram.org",
             "telegram.org",
             "www.telegram.org"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/telegram.png"
     },
     "outlook": {
         "app_name": "Outlook",
@@ -198,7 +214,8 @@
             "outlook.live.com",
             "live.com",
             "www.live.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/outlook.png"
     },
     "linked_in": {
         "app_name": "Linked In",
@@ -209,7 +226,8 @@
         "connected_domains": [
             "www.linkedin.com",
             "linkedin.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/linkedin.png"
     },
     "wikipedia": {
         "app_name": "Wikipedia",
@@ -220,7 +238,8 @@
         "connected_domains": [
             "www.wikipedia.org",
             "wikipedia.org"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/wikipedia.png"
     },
     "facebook_audience_network": {
         "app_name": "Meta Audience Network",
@@ -231,7 +250,8 @@
         "connected_domains": [
             "www.facebook.com",
             "facebook.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/fan.png"
     },
     "quora": {
         "app_name": "Quora",
@@ -242,7 +262,8 @@
         "connected_domains": [
             "www.quora.com",
             "quora.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/quora.png"
     },
     "medium": {
         "app_name": "Medium",
@@ -253,7 +274,8 @@
         "connected_domains": [
             "medium.com",
             "www.medium.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/medium.png"
     },
     "tumblr": {
         "app_name": "Tumblr",
@@ -264,7 +286,8 @@
         "connected_domains": [
             "www.tumblr.com",
             "tumblr.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/tumblr.png"
     },
     "gmail": {
         "app_name": "Gmail",
@@ -275,7 +298,8 @@
         "connected_domains": [
             "www.gmail.com",
             "gmail.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/gmail.png"
     },
     "fakemail": {
         "app_name": "Fakemail",
@@ -286,7 +310,8 @@
         "connected_domains": [
             "www.fakemail.net",
             "fakemail.net"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/fakemail.png"
     },
     "cp_algorithms": {
         "app_name": "CP Algorithms",
@@ -297,7 +322,8 @@
         "connected_domains": [
             "cp-algorithms.com",
             "www.cp-algorithms.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/cpalgorithms.webp"
     },
     "skype": {
         "app_name": "Skype",
@@ -308,7 +334,8 @@
         "connected_domains": [
             "www.skype.com",
             "skype.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/skype.png"
     },
     "discord": {
         "app_name": "Discord",
@@ -319,7 +346,8 @@
         "connected_domains": [
             "discord.com",
             "www.discord.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/discord.png"
     },
     "netflix": {
         "app_name": "Netflix",
@@ -330,7 +358,8 @@
         "connected_domains": [
             "www.netflix.com",
             "netflix.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/netflix.png"
     },
     "prime_video": {
         "app_name": "Prime Video",
@@ -341,7 +370,8 @@
         "connected_domains": [
             "www.primevideo.com",
             "primevideo.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/primevideo.png"
     },
     "amazon": {
         "app_name": "Amazon",
@@ -352,7 +382,8 @@
         "connected_domains": [
             "www.amazon.com",
             "amazon.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/amazon.png"
     },
     "flipkart": {
         "app_name": "Flipkart",
@@ -363,7 +394,8 @@
         "connected_domains": [
             "www.flipkart.com",
             "flipkart.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/flipkart.png"
     },
     "myntra": {
         "app_name": "Myntra",
@@ -374,7 +406,8 @@
         "connected_domains": [
             "www.myntra.com",
             "myntra.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/myntra.png"
     },
     "alibaba": {
         "app_name": "Alibaba",
@@ -385,7 +418,8 @@
         "connected_domains": [
             "www.alibaba.com",
             "alibaba.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/alibaba.png"
     },
     "olx": {
         "app_name": "OLX",
@@ -396,7 +430,8 @@
         "connected_domains": [
             "www.olx.com",
             "olx.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/olx.png"
     },
     "sky_scanner": {
         "app_name": "Sky Scanner",
@@ -407,7 +442,8 @@
         "connected_domains": [
             "www.skyscanner.com",
             "skyscanner.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/skyscanner.png"
     },
     "make_my_trip": {
         "app_name": "Make My Trip",
@@ -418,7 +454,8 @@
         "connected_domains": [
             "www.makemytrip.com",
             "makemytrip.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/makemytrip.png"
     },
     "trip_advisor": {
         "app_name": "Trip Advisor",
@@ -429,7 +466,8 @@
         "connected_domains": [
             "www.tripadvisor.com",
             "tripadvisor.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/tripadvisor.png"
     },
     "airbnb": {
         "app_name": "Airbnb",
@@ -440,7 +478,8 @@
         "connected_domains": [
             "www.airbnb.com",
             "airbnb.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/airbnb.png"
     },
     "momondo": {
         "app_name": "Momondo",
@@ -451,7 +490,8 @@
         "connected_domains": [
             "www.momondo.com",
             "momondo.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/momondo.png"
     },
     "couchsurfing": {
         "app_name": "Couchsurfing",
@@ -462,7 +502,8 @@
         "connected_domains": [
             "www.couchsurfing.com",
             "couchsurfing.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/couchsurfing.png"
     },
     "bbc_news": {
         "app_name": "BBC News",
@@ -473,7 +514,8 @@
         "connected_domains": [
             "www.bbc.com",
             "bbc.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/bbcnews.png"
     },
     "aaj_tak": {
         "app_name": "Aaj Tak",
@@ -484,7 +526,8 @@
         "connected_domains": [
             "www.aajtak.in",
             "aajtak.in"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/aajtak.png"
     },
     "cnn": {
         "app_name": "CNN",
@@ -496,7 +539,8 @@
             "edition.cnn.com",
             "cnn.com",
             "www.cnn.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/cnnnews.png"
     },
     "the_hindu": {
         "app_name": "The Hindu",
@@ -507,7 +551,8 @@
         "connected_domains": [
             "www.thehindu.com",
             "thehindu.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/thehindu.png"
     },
     "gaana": {
         "app_name": "Gaana",
@@ -518,7 +563,8 @@
         "connected_domains": [
             "www.gaana.com",
             "gaana.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/gaana.png"
     },
     "jio_saavn": {
         "app_name": "Jio Saavn",
@@ -529,7 +575,8 @@
         "connected_domains": [
             "www.jiosaavn.com",
             "jiosaavn.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/jiosaavn.png"
     },
     "wynk": {
         "app_name": "Wynk",
@@ -540,7 +587,8 @@
         "connected_domains": [
             "wynk.in",
             "www.wynk.in"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/wynk.png"
     },
     "amazon_music": {
         "app_name": "Amazon Music",
@@ -552,7 +600,8 @@
             "music.amazon.com",
             "amazon.com",
             "www.amazon.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/amazonmusic.jpeg"
     },
     "spotify": {
         "app_name": "Spotify",
@@ -564,7 +613,8 @@
             "open.spotify.com",
             "spotify.com",
             "www.spotify.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/spotify.png"
     },
     "sportskeeda": {
         "app_name": "Sportskeeda",
@@ -575,7 +625,8 @@
         "connected_domains": [
             "www.sportskeeda.com",
             "sportskeeda.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/sportskeeda.png"
     },
     "cricinfo": {
         "app_name": "Cricinfo",
@@ -586,7 +637,8 @@
         "connected_domains": [
             "www.espncricinfo.com",
             "espncricinfo.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/espncricinfo.jpeg"
     },
     "cricbuzz": {
         "app_name": "Cricbuzz",
@@ -598,7 +650,8 @@
             "m.cricbuzz.com",
             "cricbuzz.com",
             "www.cricbuzz.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/cricbuzz.png"
     },
     "atcoder": {
         "app_name": "Atcoder",
@@ -609,7 +662,8 @@
         "connected_domains": [
             "www.atcoder.jp",
             "atcoder.jp"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/atcoder.png"
     },
     "codeforces": {
         "app_name": "Codeforces",
@@ -620,7 +674,8 @@
         "connected_domains": [
             "www.codeforces.com",
             "codeforces.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/codeforces.png"
     },
     "geeks_for_geeks": {
         "app_name": "Geeks For Geeks",
@@ -631,7 +686,8 @@
         "connected_domains": [
             "www.geeksforgeeks.org",
             "geeksforgeeks.org"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/geeksforgeeks.png"
     },
     "codechef": {
         "app_name": "Codechef",
@@ -642,7 +698,8 @@
         "connected_domains": [
             "www.codechef.com",
             "codechef.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/codechef.png"
     },
     "hackerearth": {
         "app_name": "Hackerearth",
@@ -653,7 +710,8 @@
         "connected_domains": [
             "www.hackerearth.com",
             "hackerearth.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/hackerearth.png"
     },
     "hackerrank": {
         "app_name": "Hackerrank",
@@ -664,7 +722,8 @@
         "connected_domains": [
             "www.hackerrank.com",
             "hackerrank.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/hackerrank.png"
     },
     "leetcode": {
         "app_name": "Leetcode",
@@ -675,7 +734,8 @@
         "connected_domains": [
             "www.leetcode.com",
             "leetcode.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/leetcode.png"
     },
     "freelancer": {
         "app_name": "Freelancer",
@@ -686,7 +746,8 @@
         "connected_domains": [
             "www.freelancer.com",
             "freelancer.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/freelancer.png"
     },
     "premier_league": {
         "app_name": "Premier League",
@@ -697,7 +758,8 @@
         "connected_domains": [
             "www.premierleague.com",
             "premierleague.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/premierleague.png"
     },
     "reddit": {
         "app_name": "Reddit",
@@ -708,7 +770,8 @@
         "connected_domains": [
             "www.reddit.com",
             "reddit.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/reddit.png"
     },
     "temp_mail": {
         "app_name": "Temp Mail",
@@ -719,7 +782,8 @@
         "connected_domains": [
             "temp-mail.org",
             "www.temp-mail.org"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/temp-mail.png"
     },
     "booking.com": {
         "app_name": "Booking.com",
@@ -730,7 +794,8 @@
         "connected_domains": [
             "www.booking.com",
             "booking.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/booking.png"
     },
     "sarkari_result": {
         "app_name": "Sarkari Result",
@@ -741,7 +806,8 @@
         "connected_domains": [
             "www.sarkariresult.com",
             "sarkariresult.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/sarkariresult.png"
     },
     "whatsapp_web": {
         "app_name": "WhatsApp Web",
@@ -753,6 +819,7 @@
             "web.whatsapp.com",
             "whatsapp.com",
             "www.whatsapp.com"
-        ]
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/whatsappweb.png"
     }
 }

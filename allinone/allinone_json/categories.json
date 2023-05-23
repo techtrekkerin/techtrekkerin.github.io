@@ -2,81 +2,97 @@
     "social": {
         "category": "social",
         "priority": 1,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/social.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/social.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/social.png"
     },
     "ai": {
         "category": "ai",
         "priority": 1,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/ai.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/ai.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/ai.png"
     },
     "videos": {
         "category": "videos",
         "priority": 2,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/videos.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/videos.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/videos.png"
     },
     "music": {
         "category": "music",
         "priority": 4,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/music.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/music.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/music.png"
     },
     "games": {
         "category": "games",
         "priority": 3,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/games.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/games.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/games.png"
     },
     "coding": {
         "category": "coding",
         "priority": 11,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/coding.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/coding.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/coding.png"
     },
     "earn_money": {
         "category": "earn_money",
         "priority": 7,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/earnmoney.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/earnmoney.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/earnmoney.png"
     },
     "shopping": {
         "category": "shopping",
         "priority": 6,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/shopping.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/shopping.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/shopping.png"
     },
     "news": {
         "category": "news",
         "priority": 5,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/news.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/news.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/news.png"
     },
     "sports": {
         "category": "sports",
         "priority": 9,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/sports.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/sports.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/sports.png"
     },
     "education": {
         "category": "education",
         "priority": 8,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/education.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/education.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/education.png"
     },
     "jobs": {
         "category": "jobs",
         "priority": 7,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/jobs.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/jobs.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/jobs.png"
     },
     "blogs": {
         "category": "blogs",
         "priority": 12,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/blogs.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/blogs.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/blogs.png"
     },
     "email": {
         "category": "email",
         "priority": 6,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/email.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/email.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/email.png"
     },
     "search_engine": {
         "category": "search_engine",
         "priority": 10,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/search.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/search.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/search.png"
     },
     "travel": {
         "category": "travel",
         "priority": 5,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/travel.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/travel.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/travel.png"
     }
 }
