@@ -179,8 +179,8 @@
             ],
             "spin_and_win_popup_validity": {
                 "days": 0,
-                "hours": 0,
-                "minutes": 1
+                "hours": 3,
+                "minutes": 0
             }
         },
         "apps_config": {
