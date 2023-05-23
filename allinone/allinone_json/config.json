@@ -76,15 +76,15 @@
         },
         "reward_coins_array" : [
             40, 70, 85, 100, 130, 175, 190, 220, 290
-        ]
+        ],
+        "spin_and_win_popup_validity" : {
+            "days": 0,
+            "hours": 0,
+            "minutes": 1
+        }
     },
 
     "apps_config": {
-        "app_unlock_cost": 12,
-        "spin_and_win_popup_validity" : {
-            "days": 0,
-            "hours": 3,
-            "minutes": 0
-        }
+        "app_unlock_cost": 12
     }
 }
