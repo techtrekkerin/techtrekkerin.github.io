@@ -80,6 +80,11 @@
     },
 
     "apps_config": {
-        "app_unlock_cost": 12
+        "app_unlock_cost": 12,
+        "spin_and_win_popup_validity" : {
+            "days": 0,
+            "hours": 3,
+            "minutes": 0
+        }
     }
 }
