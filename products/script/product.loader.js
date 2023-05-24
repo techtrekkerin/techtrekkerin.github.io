@@ -1,4 +1,6 @@
 const productsJsonLink = "/products/products/products.json";
+const websiteIconBaseUrl = "/images/";
+const websiteIconSuffix = "_icon.png";
 
 categories = undefined;
 products = undefined;
@@ -160,11 +162,26 @@ function getSingleProductDiv(product) {
     var cardBodyDiv = document.createElement("div");
     cardBodyDiv.className = "card-body";
 
+    var titleDiv = document.createElement("div");
+    titleDiv.className = "card-title";
+    titleDiv.innerHTML = getCapitalizeText(product.name);
+    cardBodyDiv.appendChild(titleDiv);
+
     var anchor = document.createElement("a");
     anchor.className = "btn stretched-link text-truncate btn-outline-secondary";
     anchor.href = product.buy_link;
     anchor.target = "_blank";
-    anchor.innerHTML = getCapitalizeText(product.name);
+    //anchor.innerHTML = "Buy at " + getCapitalizeText(product.website);
+    
+    var buyAtSpan = document.createElement("span");
+    buyAtSpan.innerHTML = "Buy at";
+    anchor.appendChild(buyAtSpan);
+
+    var websiteIcon = document.createElement("img");
+    websiteIcon.className = "website-icon";
+    websiteIcon.src = websiteIconBaseUrl + product.website + websiteIconSuffix;
+    anchor.appendChild(websiteIcon);
+
     cardBodyDiv.appendChild(anchor);
 
     cardDiv.appendChild(cardBodyDiv);

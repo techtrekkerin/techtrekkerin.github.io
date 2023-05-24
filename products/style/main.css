@@ -13,7 +13,23 @@
     overflow: hidden !important;
     text-overflow: ellipsis !important;
     white-space: nowrap !important;
-    font-size: 12px !important;
+    font-size: 16px !important;
+}
+
+.website-icon {
+    height: 16px !important;
+    width: 16px !important;
+    margin-left: 6px;
+}
+
+.card-title {
+    color: black;
+    max-width: 100% !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    white-space: nowrap !important;
+    font-size: 14px !important;
+    font-weight: bold;
 }
 
 footer a{

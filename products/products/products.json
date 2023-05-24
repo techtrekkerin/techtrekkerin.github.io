@@ -5,7 +5,7 @@
             "name": "Amazon Echo Dot 5",
             "image_link": "images/echo_dot.jpg",
             "buy_link": "https://amzn.to/3AS4jpa",
-            "website": "Amazon",
+            "website": "amazon",
             "category": "smart",
             "tags": "speaker, smart home",
             "priority" : 10000
@@ -16,7 +16,7 @@
             "name": "Amazon Echo Show 5",
             "image_link": "images/echo_show_5.jpg",
             "buy_link": "https://amzn.to/3Vy8908",
-            "website": "Amazon",
+            "website": "amazon",
             "category": "smart",
             "tags": "speaker, smart home",
             "priority" : 10000
@@ -27,9 +27,31 @@
             "name": "STRIFF Laptop Stand",
             "image_link": "images/striff_laptop_stand.jpg",
             "buy_link": "https://amzn.to/3oWhfrn",
-            "website": "Amazon",
+            "website": "amazon",
             "category": "accessories",
             "tags": "laptop stand",
+            "priority" : 10000
+            
+        },
+
+        {
+            "name": "Google Nest Hub (2nd Gen)",
+            "image_link": "images/google_nest_hub_2nd_gen.webp",
+            "buy_link": "https://dl.flipkart.com/s/!KKGmINNNN",
+            "website": "flipkart",
+            "category": "smart",
+            "tags": "speaker, smart home",
+            "priority" : 10000
+            
+        },
+
+        {
+            "name": "Google Nest Mini (2nd Gen)",
+            "image_link": "images/google_nest_mini_2nd_gen.webp",
+            "buy_link": "https://dl.flipkart.com/s/T2mLNZuuuN",
+            "website": "flipkart",
+            "category": "smart",
+            "tags": "speaker, smart home",
             "priority" : 10000
             
         },
@@ -38,7 +60,7 @@
             "name": "PHILIPS handheld Steamer",
             "image_link": "images/philips_steamer.jpg",
             "buy_link": "https://amzn.to/3LmBw0N",
-            "website": "Amazon",
+            "website": "amazon",
             "category": "home appliances",
             "tags": "steamer",
             "priority" : 10000
@@ -49,7 +71,7 @@
             "name": "Infinity (JBL Glide 510)",
             "image_link": "images/infinity_jbl_glide_510.jpg",
             "buy_link": "https://amzn.to/3LEvPfY",
-            "website": "Amazon",
+            "website": "amazon",
             "category": "audio",
             "tags": "headphone, bluetooth headphones",
             "priority" : 10000
@@ -60,7 +82,7 @@
             "name": "OnePlus Nord Buds",
             "image_link": "images/one_plus_nord_buds.jpg",
             "buy_link": "https://amzn.to/3AP5Yf3",
-            "website": "Amazon",
+            "website": "amazon",
             "category": "audio",
             "tags": "headphone, tws",
             "priority" : 10000
@@ -71,7 +93,7 @@
             "name": "Video Capture Card",
             "image_link": "images/video_capture_card.jpg",
             "buy_link": "https://amzn.to/3VpBPMS",
-            "website": "Amazon",
+            "website": "amazon",
             "category": "accessories",
             "tags": "cable, convertor",
             "priority" : 10000
@@ -82,7 +104,7 @@
             "name": "TP Link Archer A6 Router",
             "image_link": "images/tplink_archer_a6.jpg",
             "buy_link": "https://amzn.to/42hWFQn",
-            "website": "Amazon",
+            "website": "amazon",
             "category": "internet",
             "tags": "router",
             "priority" : 10000
@@ -93,7 +115,7 @@
             "name": "Digitek Tripod",
             "image_link": "images/digitek_tripod.jpg",
             "buy_link": "https://amzn.to/3LQReSY",
-            "website": "Amazon",
+            "website": "amazon",
             "category": "accessories",
             "tags": "tripod",
             "priority" : 10000
@@ -104,7 +126,7 @@
             "name": "Osaka Ring Light",
             "image_link": "images/osaka_ring_light.jpg",
             "buy_link": "https://amzn.to/3LPZcfr",
-            "website": "Amazon",
+            "website": "amazon",
             "category": "accessories",
             "tags": "ring light",
             "priority" : 10000
