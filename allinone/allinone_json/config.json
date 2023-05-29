@@ -67,8 +67,8 @@
         "skip_new_app_ad_cost": 75,
         "show_switch_app_ad_validity" : {
             "days": 0,
-            "hours": 3,
-            "minutes": 0
+            "hours": 2,
+            "minutes": 10
         }
     }, 
 
