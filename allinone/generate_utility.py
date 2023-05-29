@@ -39,7 +39,7 @@ def main():
     data = get_data_from_file(FILE_NAME_APPS)
     for key in data.keys():
         app = data[key]
-        app["india_only"] = False
+        app["is_india_only"] = False
         data[key] = app
     
     write_tofile(data)

@@ -208,7 +208,8 @@
                 "accounts.google.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/google.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "jio_cinema": {
             "app_name": "Jio Cinema",
@@ -221,7 +222,8 @@
                 "jiocinema.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/jiocinema.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "amazon_india": {
             "app_name": "Amazon India",
@@ -234,7 +236,8 @@
                 "amazon.in"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/amazonindia.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "facebook": {
             "app_name": "Facebook",
@@ -251,7 +254,8 @@
                 "www.fb.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/facebook.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "instagram": {
             "app_name": "Instagram",
@@ -266,7 +270,8 @@
                 "help.instagram.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/instagram.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "microsoft_bing": {
             "app_name": "Microsoft Bing",
@@ -279,7 +284,8 @@
                 "bing.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/microsoft.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "twitter": {
             "app_name": "Twitter",
@@ -292,7 +298,8 @@
                 "www.twitter.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/twitter.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "manage_snapchat_account": {
             "app_name": "Manage Snapchat Account",
@@ -306,7 +313,8 @@
                 "www.snapchat.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/snapchat.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "bard_ai": {
             "app_name": "Bard AI",
@@ -318,7 +326,8 @@
                 "bard.google.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/bard.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "character_ai": {
             "app_name": "Character AI",
@@ -332,7 +341,8 @@
                 "www.character.ai"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/characterai.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "chat_gpt": {
             "app_name": "Chat GPT",
@@ -346,7 +356,8 @@
                 "www.openai.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/chatgpt.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "wordle": {
             "app_name": "Wordle",
@@ -359,7 +370,8 @@
                 "nytimes.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/wordle.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "spelling_bee": {
             "app_name": "Spelling Bee",
@@ -372,7 +384,8 @@
                 "nytimes.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/spellingbee.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "sudoku": {
             "app_name": "Sudoku",
@@ -385,7 +398,8 @@
                 "nytimes.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/sudoku.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "duckduckgo": {
             "app_name": "DuckDuckGo",
@@ -398,7 +412,8 @@
                 "www.duckduckgo.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/duckduckgo.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "telegram": {
             "app_name": "Telegram",
@@ -412,7 +427,8 @@
                 "www.telegram.org"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/telegram.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "outlook": {
             "app_name": "Outlook",
@@ -426,7 +442,8 @@
                 "www.live.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/outlook.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "linked_in": {
             "app_name": "Linked In",
@@ -439,7 +456,8 @@
                 "linkedin.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/linkedin.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "wikipedia": {
             "app_name": "Wikipedia",
@@ -452,7 +470,8 @@
                 "wikipedia.org"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/wikipedia.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "facebook_audience_network": {
             "app_name": "Meta Audience Network",
@@ -465,7 +484,8 @@
                 "facebook.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/fan.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "quora": {
             "app_name": "Quora",
@@ -478,7 +498,8 @@
                 "quora.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/quora.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "medium": {
             "app_name": "Medium",
@@ -491,7 +512,8 @@
                 "www.medium.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/medium.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "tumblr": {
             "app_name": "Tumblr",
@@ -504,7 +526,8 @@
                 "tumblr.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/tumblr.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "gmail": {
             "app_name": "Gmail",
@@ -517,7 +540,8 @@
                 "gmail.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/gmail.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "fakemail": {
             "app_name": "Fakemail",
@@ -530,7 +554,8 @@
                 "fakemail.net"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/fakemail.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "cp_algorithms": {
             "app_name": "CP Algorithms",
@@ -543,7 +568,8 @@
                 "www.cp-algorithms.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/cpalgorithms.webp",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "skype": {
             "app_name": "Skype",
@@ -556,7 +582,8 @@
                 "skype.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/skype.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "discord": {
             "app_name": "Discord",
@@ -569,7 +596,8 @@
                 "www.discord.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/discord.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "netflix": {
             "app_name": "Netflix",
@@ -582,7 +610,8 @@
                 "netflix.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/netflix.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "prime_video": {
             "app_name": "Prime Video",
@@ -595,7 +624,8 @@
                 "primevideo.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/primevideo.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "amazon": {
             "app_name": "Amazon",
@@ -608,7 +638,8 @@
                 "amazon.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/amazon.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "flipkart": {
             "app_name": "Flipkart",
@@ -621,7 +652,8 @@
                 "flipkart.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/flipkart.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "myntra": {
             "app_name": "Myntra",
@@ -634,7 +666,8 @@
                 "myntra.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/myntra.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "alibaba": {
             "app_name": "Alibaba",
@@ -647,7 +680,8 @@
                 "alibaba.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/alibaba.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "olx": {
             "app_name": "OLX",
@@ -660,7 +694,8 @@
                 "olx.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/olx.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "sky_scanner": {
             "app_name": "Sky Scanner",
@@ -673,7 +708,8 @@
                 "skyscanner.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/skyscanner.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "make_my_trip": {
             "app_name": "Make My Trip",
@@ -686,7 +722,8 @@
                 "makemytrip.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/makemytrip.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "trip_advisor": {
             "app_name": "Trip Advisor",
@@ -699,7 +736,8 @@
                 "tripadvisor.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/tripadvisor.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "airbnb": {
             "app_name": "Airbnb",
@@ -712,7 +750,8 @@
                 "airbnb.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/airbnb.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "momondo": {
             "app_name": "Momondo",
@@ -725,7 +764,8 @@
                 "momondo.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/momondo.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "couchsurfing": {
             "app_name": "Couchsurfing",
@@ -738,7 +778,8 @@
                 "couchsurfing.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/couchsurfing.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "bbc_news": {
             "app_name": "BBC News",
@@ -751,7 +792,8 @@
                 "bbc.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/bbcnews.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "aaj_tak": {
             "app_name": "Aaj Tak",
@@ -764,7 +806,8 @@
                 "aajtak.in"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/aajtak.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "cnn": {
             "app_name": "CNN",
@@ -778,7 +821,8 @@
                 "www.cnn.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/cnnnews.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "the_hindu": {
             "app_name": "The Hindu",
@@ -791,7 +835,8 @@
                 "thehindu.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/thehindu.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "gaana": {
             "app_name": "Gaana",
@@ -804,7 +849,8 @@
                 "gaana.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/gaana.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "jio_saavn": {
             "app_name": "Jio Saavn",
@@ -817,7 +863,8 @@
                 "jiosaavn.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/jiosaavn.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "wynk": {
             "app_name": "Wynk",
@@ -830,7 +877,8 @@
                 "www.wynk.in"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/wynk.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "amazon_music": {
             "app_name": "Amazon Music",
@@ -844,7 +892,8 @@
                 "www.amazon.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/amazonmusic.jpeg",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "spotify": {
             "app_name": "Spotify",
@@ -858,7 +907,8 @@
                 "www.spotify.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/spotify.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "sportskeeda": {
             "app_name": "Sportskeeda",
@@ -871,7 +921,8 @@
                 "sportskeeda.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/sportskeeda.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "cricinfo": {
             "app_name": "Cricinfo",
@@ -884,7 +935,8 @@
                 "espncricinfo.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/espncricinfo.jpeg",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "cricbuzz": {
             "app_name": "Cricbuzz",
@@ -898,7 +950,8 @@
                 "www.cricbuzz.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/cricbuzz.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "atcoder": {
             "app_name": "Atcoder",
@@ -911,7 +964,8 @@
                 "atcoder.jp"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/atcoder.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "codeforces": {
             "app_name": "Codeforces",
@@ -924,7 +978,8 @@
                 "codeforces.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/codeforces.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "geeks_for_geeks": {
             "app_name": "Geeks For Geeks",
@@ -937,7 +992,8 @@
                 "geeksforgeeks.org"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/geeksforgeeks.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "codechef": {
             "app_name": "Codechef",
@@ -950,7 +1006,8 @@
                 "codechef.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/codechef.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "hackerearth": {
             "app_name": "Hackerearth",
@@ -963,7 +1020,8 @@
                 "hackerearth.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/hackerearth.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "hackerrank": {
             "app_name": "Hackerrank",
@@ -976,7 +1034,8 @@
                 "hackerrank.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/hackerrank.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "leetcode": {
             "app_name": "Leetcode",
@@ -989,7 +1048,8 @@
                 "leetcode.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/leetcode.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "freelancer": {
             "app_name": "Freelancer",
@@ -1002,7 +1062,8 @@
                 "freelancer.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/freelancer.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "premier_league": {
             "app_name": "Premier League",
@@ -1015,7 +1076,8 @@
                 "premierleague.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/premierleague.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "reddit": {
             "app_name": "Reddit",
@@ -1028,7 +1090,8 @@
                 "reddit.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/reddit.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "temp_mail": {
             "app_name": "Temp Mail",
@@ -1041,7 +1104,8 @@
                 "www.temp-mail.org"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/temp-mail.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "booking.com": {
             "app_name": "Booking.com",
@@ -1054,7 +1118,8 @@
                 "booking.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/booking.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "sarkari_result": {
             "app_name": "Sarkari Result",
@@ -1067,7 +1132,8 @@
                 "sarkariresult.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/sarkariresult.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         },
         "whatsapp_web": {
             "app_name": "WhatsApp Web",
@@ -1081,7 +1147,8 @@
                 "www.whatsapp.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/whatsappweb.png",
-            "india_only": false
+            "india_only": false,
+            "is_india_only": false
         }
     }
 }
