@@ -7,7 +7,7 @@ FILE_NAME_TEMP = "apps_temp.json"
 
 def write_tofile(data_to_write):
 
-    with open(FILE_NAME_CATEGORIES, "w") as new_file:
+    with open(FILE_NAME_APPS, "w") as new_file:
         json.dump(data_to_write, new_file, indent=4)
 
 
@@ -36,10 +36,10 @@ def get_icon_link_night(icon_link):
     return icon_link.replace("/category_icons/", "/category_icons_night/")
 
 def main():
-    data = get_data_from_file(FILE_NAME_CATEGORIES)
+    data = get_data_from_file(FILE_NAME_APPS)
     for key in data.keys():
         app = data[key]
-        app["icon_link_night"] = get_icon_link_night(app["icon_link"])
+        app["india_only"] = False
         data[key] = app
     
     write_tofile(data)
