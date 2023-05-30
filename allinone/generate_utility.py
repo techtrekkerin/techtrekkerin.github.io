@@ -35,6 +35,8 @@ def get_connected_domains(url):
 def get_icon_link_night(icon_link):
     return icon_link.replace("/category_icons/", "/category_icons_night/")
 
+#adding comment to test
+
 def main():
     data = get_data_from_file(FILE_NAME_APPS)
     for key in data.keys():
@@ -43,6 +45,7 @@ def main():
         data[key] = app
     
     write_tofile(data)
+    print("misson successful")
 
 
 main()
