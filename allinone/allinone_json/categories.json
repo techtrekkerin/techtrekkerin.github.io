@@ -14,8 +14,8 @@
     "ott": {
         "category": "ott",
         "priority": 2,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/videos.png",
-        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/videos.png"
+        "icon_link": "https://techtrekker.in/allinone/category_icons/ott.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/ott.png"
     },
     "music": {
         "category": "music",
