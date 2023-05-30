@@ -13,7 +13,7 @@
             "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/ai.png"
         },
         "videos": {
-            "category": "videos",
+            "category": "ott",
             "priority": 2,
             "icon_link": "https://techtrekker.in/allinone/category_icons/videos.png",
             "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/videos.png"
@@ -213,7 +213,7 @@
         "jio_cinema": {
             "app_name": "Jio Cinema",
             "app_link": "https://www.jiocinema.com",
-            "category": "videos",
+            "category": "ott",
             "priority": 12,
             "icon_link": "https://techtrekker.in/allinone/app_icons/jiocinema.png",
             "connected_domains": [
@@ -346,6 +346,19 @@
                 "www.openai.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/chatgpt.png",
+            "is_india_only": false
+        },
+        "hotstar": {
+            "app_name": "Hotstar",
+            "app_link": "https://www.hotstar.com",
+            "category": "ott",
+            "priority": 5,
+            "icon_link": "https://techtrekker.in/allinone/app_icons/hotstar.png",
+            "connected_domains": [
+                "hotstar.com",
+                "www.hotstar.com"
+            ],
+            "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/hotstar.png",
             "is_india_only": false
         },
         "wordle": {
@@ -514,7 +527,8 @@
             "icon_link": "https://techtrekker.in/allinone/app_icons/gmail.png",
             "connected_domains": [
                 "www.gmail.com",
-                "gmail.com"
+                "gmail.com",
+                "mail.google.com"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/gmail.png",
             "is_india_only": false
@@ -574,7 +588,7 @@
         "netflix": {
             "app_name": "Netflix",
             "app_link": "https://www.netflix.com",
-            "category": "videos",
+            "category": "ott",
             "priority": 6,
             "icon_link": "https://techtrekker.in/allinone/app_icons/netflix.png",
             "connected_domains": [
@@ -587,7 +601,7 @@
         "prime_video": {
             "app_name": "Prime Video",
             "app_link": "https://www.primevideo.com",
-            "category": "videos",
+            "category": "ott",
             "priority": 7,
             "icon_link": "https://techtrekker.in/allinone/app_icons/primevideo.png",
             "connected_domains": [
