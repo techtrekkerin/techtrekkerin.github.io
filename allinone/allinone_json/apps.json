@@ -573,9 +573,22 @@
         "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/bbcnews.png",
         "is_india_only": false
     },
+    "sonyliv": {
+        "app_name": "Sony Liv",
+        "app_link": "https://www.sonyliv.com",
+        "category": "ott",
+        "priority": 10000,
+        "icon_link": "https://techtrekker.in/allinone/app_icons/sonyliv.png",
+        "connected_domains": [
+            "www.sonyliv.com",
+            "sonyliv.com"
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/sonyliv.png",
+        "is_india_only": true
+    },
     "aaj_tak": {
         "app_name": "Aaj Tak",
-        "app_link": "https://www.aajtak.in/",
+        "app_link": "https://www.aajtak.in",
         "category": "news",
         "priority": 17,
         "icon_link": "https://techtrekker.in/allinone/app_icons/aajtak.png",
