@@ -545,12 +545,12 @@
             "app_link": "https://cp-algorithms.com",
             "category": "coding",
             "priority": 10000,
-            "icon_link": "https://techtrekker.in/allinone/app_icons/cpalgorithms.webp",
+            "icon_link": "https://techtrekker.in/allinone/app_icons/cpalgorithms.png",
             "connected_domains": [
                 "cp-algorithms.com",
                 "www.cp-algorithms.com"
             ],
-            "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/cpalgorithms.webp",
+            "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/cpalgorithms.png",
             "is_india_only": false
         },
         "skype": {
@@ -772,7 +772,7 @@
                 "aajtak.in"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/aajtak.png",
-            "is_india_only": false
+            "is_india_only": true
         },
         "cnn": {
             "app_name": "CNN",
