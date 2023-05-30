@@ -289,7 +289,7 @@
     "quora": {
         "app_name": "Quora",
         "app_link": "https://www.quora.com",
-        "category": "blogs",
+        "category": "social",
         "priority": 10000,
         "icon_link": "https://techtrekker.in/allinone/app_icons/quora.png",
         "connected_domains": [
@@ -302,7 +302,7 @@
     "medium": {
         "app_name": "Medium",
         "app_link": "https://medium.com",
-        "category": "blogs",
+        "category": "social",
         "priority": 10000,
         "icon_link": "https://techtrekker.in/allinone/app_icons/medium.png",
         "connected_domains": [

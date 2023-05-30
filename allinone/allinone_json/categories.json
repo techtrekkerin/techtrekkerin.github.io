@@ -71,12 +71,6 @@
         "icon_link": "https://techtrekker.in/allinone/category_icons/jobs.png",
         "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/jobs.png"
     },
-    "blogs": {
-        "category": "blogs",
-        "priority": 12,
-        "icon_link": "https://techtrekker.in/allinone/category_icons/blogs.png",
-        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/blogs.png"
-    },
     "email": {
         "category": "email",
         "priority": 6,

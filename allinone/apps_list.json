@@ -72,12 +72,6 @@
             "icon_link": "https://techtrekker.in/allinone/category_icons/jobs.png",
             "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/jobs.png"
         },
-        "blogs": {
-            "category": "blogs",
-            "priority": 12,
-            "icon_link": "https://techtrekker.in/allinone/category_icons/blogs.png",
-            "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/blogs.png"
-        },
         "email": {
             "category": "email",
             "priority": 6,
@@ -483,7 +477,7 @@
         "quora": {
             "app_name": "Quora",
             "app_link": "https://www.quora.com",
-            "category": "blogs",
+            "category": "social",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/quora.png",
             "connected_domains": [
@@ -496,7 +490,7 @@
         "medium": {
             "app_name": "Medium",
             "app_link": "https://medium.com",
-            "category": "blogs",
+            "category": "social",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/medium.png",
             "connected_domains": [
