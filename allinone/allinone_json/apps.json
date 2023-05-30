@@ -657,13 +657,11 @@
         "app_link": "https://music.amazon.com",
         "category": "music",
         "priority": 7,
-        "icon_link": "https://techtrekker.in/allinone/app_icons/amazonmusic.jpeg",
+        "icon_link": "https://techtrekker.in/allinone/app_icons/amazonmusic.png",
         "connected_domains": [
-            "music.amazon.com",
-            "amazon.com",
-            "www.amazon.com"
+            "music.amazon.com"
         ],
-        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/amazonmusic.jpeg",
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/amazonmusic.png",
         "is_india_only": false
     },
     "spotify": {
