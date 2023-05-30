@@ -11,7 +11,7 @@
         "icon_link": "https://techtrekker.in/allinone/category_icons/ai.png",
         "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/ai.png"
     },
-    "videos": {
+    "ott": {
         "category": "ott",
         "priority": 2,
         "icon_link": "https://techtrekker.in/allinone/category_icons/videos.png",
