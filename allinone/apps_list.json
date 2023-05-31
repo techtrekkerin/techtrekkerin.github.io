@@ -515,7 +515,7 @@
         },
         "gmail": {
             "app_name": "Gmail",
-            "app_link": "https://www.gmail.com",
+            "app_link": "https://www.google.com/gmail/",
             "category": "email",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/gmail.png",
