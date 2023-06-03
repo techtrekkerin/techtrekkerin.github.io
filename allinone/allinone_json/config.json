@@ -9,7 +9,7 @@
                 "minutes": 0
             },
             "cost": 399,
-            "color_hex": "#fff"
+            "color_hex": "#CD7F32"
             
         },
         "silver" : {
@@ -21,7 +21,7 @@
                 "minutes": 0
             },
             "cost": 699,
-            "color_hex": "#fff"
+            "color_hex": "#C0C0C0"
             
         },
         "gold" : {
@@ -33,7 +33,7 @@
                 "minutes": 0
             },
             "cost": 1499,
-            "color_hex": "#fff"
+            "color_hex": "#FFD700"
             
         },
         "sapphire" : {
@@ -45,7 +45,7 @@
                 "minutes": 0
             },
             "cost": 2999,
-            "color_hex": "#fff"
+            "color_hex": "#0F52BA"
             
         },
         "platinum" : {
@@ -57,7 +57,7 @@
                 "minutes": 0
             },
             "cost": 9999,
-            "color_hex": "#fff"
+            "color_hex": "#830808"
             
         }
     },
