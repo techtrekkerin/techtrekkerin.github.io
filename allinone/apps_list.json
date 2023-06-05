@@ -237,7 +237,7 @@
             "is_india_only": true
         },
         "dominos": {
-            "app_name": "Swiggy",
+            "app_name": "Dominos",
             "app_link": "https://www.dominos.com/",
             "category": "food_and_grocery",
             "priority": 12,
