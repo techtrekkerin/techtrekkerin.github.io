@@ -12,6 +12,12 @@
             "icon_link": "https://techtrekker.in/allinone/category_icons/ai.png",
             "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/ai.png"
         },
+        "food_and_grocery": {
+            "category": "food_and_grocery",
+            "priority": 1,
+            "icon_link": "https://techtrekker.in/allinone/category_icons/food.png",
+            "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/food.png"
+        },
         "ott": {
             "category": "ott",
             "priority": 2,
@@ -178,7 +184,7 @@
             ],
             "spin_and_win_popup_validity": {
                 "days": 0,
-                "hours": 3,
+                "hours": 6,
                 "minutes": 0
             }
         },
@@ -216,6 +222,32 @@
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/jiocinema.png",
             "is_india_only": true
+        },
+        "swiggy": {
+            "app_name": "Swiggy",
+            "app_link": "https://www.swiggy.com/",
+            "category": "food_and_grocery",
+            "priority": 12,
+            "icon_link": "https://techtrekker.in/allinone/app_icons/swiggy.png",
+            "connected_domains": [
+                "www.swiggy.com",
+                "swiggy.com"
+            ],
+            "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/swiggy.png",
+            "is_india_only": true
+        },
+        "dominos": {
+            "app_name": "Swiggy",
+            "app_link": "https://www.dominos.com/",
+            "category": "food_and_grocery",
+            "priority": 12,
+            "icon_link": "https://techtrekker.in/allinone/app_icons/dominos.png",
+            "connected_domains": [
+                "www.dominos.com",
+                "dominos.com"
+            ],
+            "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/dominos.png",
+            "is_india_only": false
         },
         "amazon_india": {
             "app_name": "Amazon India",
