@@ -11,6 +11,12 @@
         "icon_link": "https://techtrekker.in/allinone/category_icons/ai.png",
         "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/ai.png"
     },
+    "food_and_grocery": {
+        "category": "food_and_grocery",
+        "priority": 1,
+        "icon_link": "https://techtrekker.in/allinone/category_icons/food.png",
+        "icon_link_night": "https://techtrekker.in/allinone/category_icons_night/food.png"
+    },
     "ott": {
         "category": "ott",
         "priority": 2,
