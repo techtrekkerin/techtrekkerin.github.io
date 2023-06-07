@@ -29,6 +29,17 @@
         "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/jiocinema.png",
         "is_india_only": true
     },
+    "best_deals": {
+        "app_name": "Best Deals",
+        "app_link": "https://techtrekker.in/products/",
+        "category": "ads",
+        "priority": 3,
+        "icon_link": "https://techtrekker.in/allinone/app_icons/deal.png",
+        "connected_domains": [
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/deal.png",
+        "is_india_only": true
+    },
     "swiggy": {
         "app_name": "Swiggy",
         "app_link": "https://www.swiggy.com/",
@@ -57,7 +68,7 @@
     },
     "amazon_india": {
         "app_name": "Amazon India",
-        "app_link": "https://www.amazon.in",
+        "app_link": "hhttps://amzn.to/3oNVeeo",
         "category": "shopping",
         "priority": 5,
         "icon_link": "https://techtrekker.in/allinone/app_icons/amazonindia.png",
