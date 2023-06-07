@@ -261,13 +261,14 @@
         },
         "amazon_india": {
             "app_name": "Amazon India",
-            "app_link": "hhttps://amzn.to/3oNVeeo",
+            "app_link": "https://amzn.to/3oNVeeo",
             "category": "shopping",
             "priority": 5,
             "icon_link": "https://techtrekker.in/allinone/app_icons/amazonindia.png",
             "connected_domains": [
                 "www.amazon.in",
-                "amazon.in"
+                "amazon.in",
+                "amzn.to"
             ],
             "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/amazonindia.png",
             "is_india_only": true
