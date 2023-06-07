@@ -324,6 +324,19 @@
         "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/fan.png",
         "is_india_only": false
     },
+    "fiverr": {
+        "app_name": "Fiverr",
+        "app_link": "https://www.fiverr.com/",
+        "category": "earn_money",
+        "priority": 10,
+        "icon_link": "https://techtrekker.in/allinone/app_icons/fiverr.png",
+        "connected_domains": [
+            "www.fiverr.com",
+            "fiverr.com"
+        ],
+        "icon_link_night": "https://techtrekker.in/allinone/app_icons_night/fan.png",
+        "is_india_only": false
+    },
     "quora": {
         "app_name": "Quora",
         "app_link": "https://www.quora.com",
