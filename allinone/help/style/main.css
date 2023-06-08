@@ -1,45 +1,65 @@
- /* Set height to 100% for body and html to enable the background image to cover the whole page: */
+@import url('https://fonts.googleapis.com/css?family=Hind:300,400&display=swap');
 
- 
-  body {
-    /* Background image */
-    background-image: url('/allinone/help/images/coming_soon_background.jpg');
-    /* Full-screen */
-    height: 100vh;
-    /* Center the background image */
-    background-position: center;
-    /* Scale and zoom in the image */
-    background-size: cover;
-    /* Add position: relative to enable absolutely positioned elements inside the image (place text) */
-    position: relative;
-    /* Add a white text color to all elements inside the .bgimg container */
-    color: white;
-    /* Add a font */
-    font-family: "Courier New", Courier, monospace;
-    /* Set the font-size to 25 pixels */
-    font-size: 25px;
-  }
-  
-  /* Position text in the top-left corner */
-  .topleft {
-    position: absolute;
-    top: 0;
-    left: 16px;
-  }
-  
+:root {
+  --bordercolor: #aaaaaa;
+  --textcolor: #434343;
+}
 
-  
-  /* Position text in the middle */
-  .middle {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-  }
-  
-  /* Style the <hr> element */
-  hr {
-    margin: auto;
-    width: 40%;
-  } 
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  padding:1em;
+}
+
+
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 12px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 14px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.accordion:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212";
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  font-size: 12px;
+  max-height: 0;
+  overflow: hidden;
+  color: var(--textcolor);
+  transition: max-height 0.2s ease-out;
+}
+
+.panel ul {
+  padding: 4px;
+}
+.panel li {
+  padding-bottom: 8px;
+}
+
+.inline-li-img {
+  height: 14px;
+  width: 14px;
+  vertical-align: middle;
+}
