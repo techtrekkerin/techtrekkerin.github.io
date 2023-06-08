@@ -1,23 +1,75 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset='utf-8'>
-    <meta name='viewport' content='width=device-width'>
-    <link rel='stylesheet' type='text/css' media='screen' href='style/main.css'>
+  <title>Help | All in One</title>
+  <link rel="icon" type="image/x-icon" href="/allinone/app_icons/allinone.png">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>-->
+  <link rel='stylesheet' type='text/css' media='screen' href='style/main.css'>
 </head>
-<body>
+<body style="background: linear-gradient(180.2deg, rgb(30, 33, 48) 6.8%, rgb(74, 98, 110) 131%) fixed; color: whitesmoke; font-size: 15px;">
 
-<div class="bgimg">
-  <div class="topleft">
-    <h4>All in One</h4>
+<div class="container">
+  <hr style="background-color:whitesmoke">
+  <h3 style="text-align: center;">How to Use</h3>
+  <hr style="background-color:whitesmoke">
+
+<div id="faq-container">
+  <button class="accordion">Open New App</button>
+  <div class="panel">
+    <ul>
+      <li>Click on <img src="images/plus_icon_gradient.png" class="inline-li-img"> icon in bottom menu.</li>
+      <li>Tap any app to open it</li>
+    </ul>
   </div>
-  <div class="middle">
-    <h1>COMING SOON</h1>
-    <hr>
-    <p>Thank you for downloading</p>
+
+  <button class="accordion">Preview App</button>
+  <div class="panel">
+    <ul>
+      <li>Click on <img src="images/plus_icon_gradient.png" class="inline-li-img"> icon in bottom menu.</li>
+      <li>Tap and Hold (Long Press App Icon) to preview any app before opening it.</li>
+    </ul>
   </div>
-  
+
+  <button class="accordion">Pin/Unpin App to top</button>
+  <div class="panel">
+    <ul>
+      <li>Click on <img src="images/plus_icon_gradient.png" class="inline-li-img"> icon in bottom menu.</li>
+      <li>Tap and Hold (Long Press App Icon) any app to open more option.</li>
+      <li>Choose Pin/Unpin option from the menu.</li>
+      <li>Pinned Apps will appear at the top of apps menu.</li>
+    </ul>
+  </div>
+
+  <button class="accordion">Lock/Unclock App</button>
+  <div class="panel">
+    <ul>
+      <li>Master Pin has to be set first to lock Apps with App Pin</li>
+      <li>Click on <img src="images/plus_icon_gradient.png" class="inline-li-img"> icon in bottom menu.</li>
+      <li>Tap and Hold (Long Press App Icon) any app to open more option</li>
+      <li>Choose Lock/Unlock option from the menu.</li>
+      <li>Set/Remove 4 digit App Pin</li>
+      <li>Each app has its own 4 digit Pin</li>
+    </ul>
+  </div>
+
+  <button class="accordion">Master Pin</button>
+  <div class="panel">
+    <ul>
+      <li>Click on <img src="images/preferences.png" class="inline-li-img"> icon in bottom menu.</li>
+      <li>Tap on Change Pin (Set Pin for the first time) to change or set new Master Pin.</li>
+      <li>Choose 6 digit Master Pin of your choice.</li>
+      <li>Master Pin can be used to unlock Apps in case you forgot App Pin</li>
+      <li>Master Pin has to be set first to lock Apps with App Pin</li>
+    </ul>
+  </div>
+</div>
 </div>
 
+<script src='script/main.js'></script>
+    
 </body>
 </html>
