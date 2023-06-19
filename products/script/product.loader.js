@@ -1,11 +1,18 @@
-const productsJsonLink = "/products/products/products.json";
 const websiteIconBaseUrl = "/images/";
+const productsJsonLink = "/products/products/products.json";
 const websiteIconSuffix = "_icon.png";
+const categoryKey = "category";
+const defaultProductsPath = "/products/";
 
+//const productsFilePath = "/products/products.json";
+
+const defaultCategory = "all products";
 categories = undefined;
 products = undefined;
-const defaultCategory = "all products";
 selectedCategory = "all products";
+
+refPath = undefined;
+
 
 
 window.onload = function() {
@@ -13,11 +20,38 @@ window.onload = function() {
     setSelectedCategoryFromUrl();
 }
 
+function getNthIndexOfSlash(path, nth) {
+    var count = 0;
+    for(var i = 0; i < path.length; i++) {
+        if(path[i] == "/") {
+            count++;
+            if(count == nth) {
+                return i;
+            }
+        }
+    }
+
+    return -1;
+
+}
+
+
+function getRefPath() {
+    if(refPath != undefined) {
+        return refPath;
+    }
+    var path = window.location.pathname;
+    refPath = path;
+    //var secondSlashIndex = getNthIndexOfSlash(path, 2);
+    //refPath = path.substring(1, secondSlashIndex);
+    return refPath;
+}
+
 function setSelectedCategoryFromUrl() {
 
     url = new URL(window.location.href);
     searchParams = url.searchParams;
-    selectedCategory = searchParams.get("categ");
+    selectedCategory = searchParams.get(categoryKey);
 
 }
 
@@ -63,7 +97,7 @@ function getCapitalizeText(text) {
 }
 
 function setCategoryInUrlParams() {
-    searchParams.set("categ", getSelectedCategory());
+    searchParams.set(categoryKey, getSelectedCategory());
     window.history.replaceState(null, null, url);
 }
 
@@ -141,7 +175,11 @@ function populateProductsInDom(category) {
 
     for(var i = 0; i < productsArray.length; i++) {
         var product = productsArray[i];
-        productRow.appendChild(getSingleProductDiv(product));
+        
+        if(defaultProductsPath.localeCompare(getRefPath()) == 0
+         ||  product.paths.includes(getRefPath())) {
+            productRow.appendChild(getSingleProductDiv(product));
+        }
     }
 }
 
