@@ -31,7 +31,7 @@
     },
     "best_deals": {
         "app_name": "Best Deals",
-        "app_link": "https://techtrekker.in/products/",
+        "app_link": "https://techtrekker.in/bestdeals/",
         "category": "ads",
         "priority": 3,
         "icon_link": "https://techtrekker.in/allinone/app_icons/deal.png",
