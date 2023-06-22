@@ -1,8 +1,9 @@
 const websiteIconBaseUrl = "/images/";
 const productsJsonLink = "/products/products/products.json";
 const websiteIconSuffix = "_icon.png";
-const categoryKey = "category";
+const categoryKey = "c";
 const defaultProductsPath = "/products/";
+pageTitleSuffix = "Tech Trekker";
 
 //const productsFilePath = "/products/products.json";
 
@@ -184,11 +185,20 @@ function populateProductsInDom(category) {
 }
 
 function getSingleProductDiv(product) {
+    var productName = getCapitalizeText(product.name);
+
     var mainDiv = document.createElement("div");
     mainDiv.className = "col-6 col-sm-4 col-md-3 col-lg-2";
 
     var cardDiv = document.createElement("div");
     cardDiv.className = "card product-card";
+
+
+
+    var titleDiv = document.createElement("div");
+    titleDiv.className = "card-title";
+    titleDiv.innerHTML = productName;
+
 
     var img = document.createElement("img");
     img.className = "card-img-top lazy";
@@ -196,13 +206,12 @@ function getSingleProductDiv(product) {
     img.alt = product.name;
     img.src = product.image_link;
     cardDiv.appendChild(img);
+    //cardDiv.appendChild(titleDiv);
 
     var cardBodyDiv = document.createElement("div");
     cardBodyDiv.className = "card-body";
 
-    var titleDiv = document.createElement("div");
-    titleDiv.className = "card-title";
-    titleDiv.innerHTML = getCapitalizeText(product.name);
+
     cardBodyDiv.appendChild(titleDiv);
 
     var anchor = document.createElement("a");
