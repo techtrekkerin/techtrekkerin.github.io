@@ -1,5 +1,88 @@
 {
     "products": [
+        {
+            "name": "HP Victus Gaming",
+            "image_link": "/products/images/hp_victus_gaming.jpg",
+            "buy_link": "https://amzn.to/46fdfDl",
+            "website": "amazon",
+            "category": "laptop",
+            "priority" : 10000,
+            "paths" : [
+                "/youtube/",
+                "/bestdeals/"
+            ]
+            
+        },
+
+        {
+            "name": "ASUS TUF Gaming A15",
+            "image_link": "/products/images/asus_tuf_gaming_a15.jpg",
+            "buy_link": "https://amzn.to/3Pp3BYI",
+            "website": "amazon",
+            "category": "laptop",
+            "priority" : 10000,
+            "paths" : [
+                "/youtube/",
+                "/bestdeals/"
+            ]
+            
+        },
+
+        {
+            "name": "ASUS TUF Gaming F15 (2022)",
+            "image_link": "/products/images/asus_tuf_gaming_f15.jpg",
+            "buy_link": "https://amzn.to/3Xjh7iq",
+            "website": "amazon",
+            "category": "laptop",
+            "priority" : 10000,
+            "paths" : [
+                "/youtube/",
+                "/bestdeals/"
+            ]
+            
+        },
+
+        {
+            "name": "Samsung Galaxy Book 2 (1.55 kg)",
+            "image_link": "/products/images/samsung_galaxy_book_2.jpg",
+            "buy_link": "https://amzn.to/3NIRd4M",
+            "website": "amazon",
+            "category": "laptop",
+            "priority" : 10000,
+            "paths" : [
+                "/youtube/",
+                "/bestdeals/"
+            ]
+            
+        },
+
+        {
+            "name": "Xiaomi Notebook Ultra (15.6 inch)",
+            "image_link": "/products/images/xiaomi_notebook_ultra.jpg",
+            "buy_link": "https://amzn.to/46iVxPh",
+            "website": "amazon",
+            "category": "laptop",
+            "priority" : 10000,
+            "paths" : [
+                "/youtube/",
+                "/bestdeals/"
+            ]
+            
+        },
+
+        {
+            "name": "Acer Aspire 5 Gaming (1.8 kg)",
+            "image_link": "/products/images/acer_aspire_5.jpg",
+            "buy_link": "https://amzn.to/3NiQvK1",
+            "website": "amazon",
+            "category": "laptop",
+            "priority" : 10000,
+            "paths" : [
+                "/youtube/",
+                "/bestdeals/"
+            ]
+            
+        },
 
         {
             "name": "Amazon Echo Dot 5",
