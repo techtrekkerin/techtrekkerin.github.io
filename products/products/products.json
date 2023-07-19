@@ -1,6 +1,18 @@
 {
     "products": [
         {
+            "name": "DSC Jaffa 22 Cricket Shoes",
+            "image_link": "/products/images/dsc_jaffa_cricket_shoes.jpg",
+            "buy_link": "https://amzn.to/3Dj59MD",
+            "website": "amazon",
+            "category": "shoes",
+            "priority" : 10000,
+            "paths" : [
+                "/bestdeals/"
+            ]
+            
+        },
+        {
             "name": "HP Victus Gaming",
             "image_link": "/products/images/hp_victus_gaming.jpg",
             "buy_link": "https://amzn.to/46fdfDl",
