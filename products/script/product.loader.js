@@ -221,7 +221,7 @@ function getSingleProductDiv(product) {
     //anchor.innerHTML = "Buy at " + getCapitalizeText(product.website);
     
     var buyAtSpan = document.createElement("span");
-    buyAtSpan.innerHTML = "Buy at";
+    buyAtSpan.innerHTML = "View at";
     anchor.appendChild(buyAtSpan);
 
     var websiteIcon = document.createElement("img");
