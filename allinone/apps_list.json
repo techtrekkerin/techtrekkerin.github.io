@@ -990,7 +990,7 @@
         },
         "codeforces": {
             "app_name": "Codeforces",
-            "app_link": "https://www.codeforces.com",
+            "app_link": "https://codeforces.com",
             "category": "coding",
             "priority": 10000,
             "icon_link": "https://techtrekker.in/allinone/app_icons/codeforces.png",
