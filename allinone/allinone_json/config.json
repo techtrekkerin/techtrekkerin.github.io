@@ -8,7 +8,7 @@
                 "hours": 6,
                 "minutes": 0
             },
-            "cost": 399,
+            "cost": 499,
             "color_hex": "#CD7F32"
             
         },
@@ -20,7 +20,7 @@
                 "hours": 0,
                 "minutes": 0
             },
-            "cost": 699,
+            "cost": 799,
             "color_hex": "#C0C0C0"
             
         },
@@ -32,7 +32,7 @@
                 "hours": 0,
                 "minutes": 0
             },
-            "cost": 1499,
+            "cost": 1599,
             "color_hex": "#FFD700"
             
         },
@@ -44,7 +44,7 @@
                 "hours": 0,
                 "minutes": 0
             },
-            "cost": 2999,
+            "cost": 3399,
             "color_hex": "#0F52BA"
             
         },
@@ -52,18 +52,18 @@
             "name": "platinum",
             "type": "ad_block",
             "validity": {
-                "days": 30,
+                "days": 28,
                 "hours": 0,
                 "minutes": 0
             },
-            "cost": 9999,
+            "cost": 10999,
             "color_hex": "#830808"
             
         }
     },
 
     "ads" : {
-        "open_new_app_show_ad_after" : 3,
+        "open_new_app_show_ad_after" : 2,
         "skip_new_app_ad_cost": 75,
         "show_switch_app_ad_validity" : {
             "days": 0,
@@ -73,10 +73,10 @@
     }, 
 
     "spin_and_win": {
-        "daily_spin_count": 4,
+        "daily_spin_count": 2,
         "validity": {
-            "days": 1,
-            "hours": 0,
+            "days": 0,
+            "hours": 8,
             "minutes": 0
         },
         "reward_coins_array" : [
