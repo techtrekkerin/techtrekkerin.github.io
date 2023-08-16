@@ -156,8 +156,8 @@
             }
         },
         "ads": {
-            "open_new_app_show_ad_after": 2,
-            "skip_new_app_ad_cost": 75,
+            "open_new_app_show_ad_after": 3,
+            "skip_new_app_ad_cost": 69,
             "show_switch_app_ad_validity": {
                 "days": 0,
                 "hours": 2,
